@@ -1,0 +1,11 @@
+2018/09/21 19:47:45 [emerg] 8#8: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 19:53:56 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 19:55:10 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 20:22:55 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 20:28:44 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 20:29:37 [emerg] 6#6: host not found in upstream "node" in /etc/nginx/sites-available/node.template.conf:7
+2018/09/21 20:32:43 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 20:33:47 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 20:34:57 [emerg] 11#11: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 20:40:35 [emerg] 6#6: open() "/var/log/nginx/error.log" failed (2: No such file or directory)
+2018/09/21 21:34:52 [error] 8#8: *2 connect() failed (111: Connection refused) while connecting to upstream, client: 172.27.0.1, server: , request: "GET / HTTP/1.1", upstream: "http://172.27.0.3:3000/", host: "127.0.0.1"
